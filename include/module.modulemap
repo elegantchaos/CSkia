@@ -1,0 +1,7 @@
+module CSkia [system] {
+  header "CSkia.h"
+  link "skia"
+  link "freetype"
+  link "fontconfig"
+  export *
+}
