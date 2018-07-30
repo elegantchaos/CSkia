@@ -1,5 +1,5 @@
 module CSkia [system] {
-  header "CSkia.h"
+  header "include/CSkia.h"
   link "skia"
   link "freetype"
   link "fontconfig"
